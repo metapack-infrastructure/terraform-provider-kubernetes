@@ -3399,5 +3399,5 @@
 			"revisionTime": "2018-05-07T12:32:20Z"
 		}
 	],
-	"rootPath": "github.com/sl1pm4t/terraform-provider-kubernetes"
+	"rootPath": "github.com/metapack-infrastructure/terraform-provider-kubernetes"
 }
